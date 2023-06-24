@@ -26,7 +26,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             MovieNavigation()
 
-            // new com
+            // new version
         }
     }
 }
