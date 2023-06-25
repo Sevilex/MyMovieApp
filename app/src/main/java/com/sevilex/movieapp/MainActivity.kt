@@ -27,6 +27,7 @@ class MainActivity : ComponentActivity() {
             MovieNavigation()
 
             // new version
+            //other new Version
         }
     }
 }
