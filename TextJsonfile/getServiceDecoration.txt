@@ -1,1 +1,0 @@
-[{"id":"ID_Nothing","title":"بنایی","image":"https://github.com/Sevilex/MyMovieApp/blob/16d52b43be55b43960b00a567f5c66c5a8949423/PicJsonStark/backgroundwhite.png","poster":"https://github.com/Sevilex/MyMovieApp/blob/16d52b43be55b43960b00a567f5c66c5a8949423/PicJsonStark/backgroundwhite.png","priceTitle":[""],"priceValue":[""],"description":"","questionR":"","answerR":""}]
